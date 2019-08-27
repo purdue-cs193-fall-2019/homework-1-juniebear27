@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# June Seo's First CS 193 Home work! 
+
+### Things I enjoy about CS193 Homework!
+- TA's look pretty cool. Better than my HS teachers for sure.
+- The iClicker quizzes are interesting.
+- It is better than CS 191 because I don't get the point of that class.
+- "Hello world"
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,11 +18,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Hello there, welcome to my GitHub. My name is June Seo.
+I don't really know how to change stuff other than typing!
 
 - Bulleted
 - List
